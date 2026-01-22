@@ -1,5 +1,5 @@
 # Getting Started with the Vue Carousel Component
-A quick start Vue project that shows how to get started with the Carousel component. This project includes a code snippet to bind items to the carousel from a data source.
+This is a concise introductory Vue project designed to demonstrate the initial steps for utilizing the Carousel component effectively. Within this project, you will find a practical code example that illustrates the method for binding items to the Carousel component by retrieving them from a specified data source.
  
 Refer to the following documentation to learn about the Vue Carousel component: 
 https://helpej2.syncfusion.com/vue/documentation/carousel/getting-started
